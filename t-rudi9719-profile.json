@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T13:25:50Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:rudi9719"
+    },
+    {
+      "Claim": "yt:@therudi9719"
+    },
+    {
+      "Claim": "mdon:@rudi@nightmare.haus"
+    },
+    {
+      "Claim": "t:rudi9719"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "362cfe4a47abf8c745fc1327",
+    "Timestamp": "2023-04-06T13:37:20Z",
+    "Signature": "5e8ad7eaa257119d56f936fdf9d661ef6582f1254b2dfa1b7789259b7935a877363d9a62ebc99b0c31b0df7f3dd582bc43bded20de83f1b28497234b201807a4e289e621b05c1ff379faad4db098f81ce18ba1d0fad919cfff60aa3f4b3b9382b0a17675b1ddf9c06c427a57fc7c77caa8a39925521f6eee3541958b57406600bfaa3b58f82d7c8806e49741f9ebba953f865e079cdbc158f94201bd9152ada0b61de561d000dae837002b0cdb40a34bbc9c1d2771b78779a81963a88331e276c1493d544ef49c14c17f0250f9dddb4a69b3f67c9d03c0b145d1cfab6a90c8a8bd3115f33c861938fd8e42dfce1295372de70d7f1bc481dd2b1e23cb16b5f40a"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "d4d91ca96dcfb766d74dc452fac356c0ed94fbb2a75ab37021aec8192628ad7b",
+  "ContentToHash": "v1|gh:rudi9719,mdon:@rudi@nightmare.haus,med:no-account,post:no-account,spout:no-account,ss:no-account,t:rudi9719,yt:@therudi9719|2023-04-06T13:25:50Z"
+}
